@@ -1,5 +1,4 @@
-package Interfaces;
-import java.util.concurrent.Semaphore;
+package threadsStudy;
 
 public class Main3 {
 

@@ -1,4 +1,4 @@
-package Interfaces;
+package threadsStudy;
 
 public class Main2 {
 
